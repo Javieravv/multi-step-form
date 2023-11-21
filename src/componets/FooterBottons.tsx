@@ -9,7 +9,7 @@ export const FooterBottons = () => {
     
     return (
         <div className={`bg-white w-full py-4 mt-6 bottom-0 right-0 flex 
-                ${stepActive > 1 ? 'justify-between' : 'justify-end'} px-8 
+                ${stepActive > 1 ? 'justify-between' : 'justify-end'} px-4 
                 md:col-start-3 md:col-end-7 md:px-10 md:mx-0 md:mt-0`}>
             {(stepActive > 1) ? (
                 <button

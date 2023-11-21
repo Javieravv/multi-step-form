@@ -33,7 +33,7 @@
 
   /* ==================== Caja de las opciones ====================*/
   .step-content {
-    @apply bg-white mx-6 rounded-md px-5 py-9 mt-[-80px] flex flex-col transition-all duration-1000 ease-in-out
+    @apply bg-white mx-2 rounded-md px-3 py-9 mt-[-80px] flex flex-col transition-all duration-1000 ease-in-out
     md:col-start-3 md:col-end-7 md:row-start-1 md:row-end-6 md:mt-1 md:mx-8 md:rounded-none;
   }
 
